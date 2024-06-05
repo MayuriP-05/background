@@ -12,7 +12,7 @@
         rgba(0, 0, 0, 0.8),
         rgba(0, 0, 0, 0.7)
       );
-    
+    cursor: pointer;
 }
   .nav_sub {
     display: inline-block;
